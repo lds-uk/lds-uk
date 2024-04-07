@@ -26,7 +26,7 @@
   <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
 
-[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lds-uk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Lazaro's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lds-uk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ### 🌱 Currently Learning
@@ -69,10 +69,10 @@
 ---
 ### GitHub Stats
 
-[![Ishan's GitHub Stats](https://github-readme-stats-lds-uk.vercel.app/api?username=lds-uk&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/lds-uk/github-readme-stats)
+[![lds-uk's GitHub Stats](https://github-readme-stats-lds-uk.vercel.app/api?username=lds-uk&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/lds-uk/github-readme-stats)
 
-[![Ishan's Top Languages](https://github-readme-stats-lds-uk.vercel.app/api/top-langs?username=lds-uk&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
-[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=lds-uk&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
+[![lds-uk's Top Languages](https://github-readme-stats-lds-uk.vercel.app/api/top-langs?username=lds-uk&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
+[![lds-uk's GitHub Streak](https://streak-stats.demolab.com?user=lds-uk&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
 ### 💬 Feedback
 
